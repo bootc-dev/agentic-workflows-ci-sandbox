@@ -198,8 +198,8 @@ checksum = "b25655df2c3cdd83c5e5b293b88acd880332b2ddadd7c30ac43144fdc0033da9"
 
 [[package]]
 name = "bcvk-qemu"
-version = "0.1.0"
-source = "git+https://github.com/bootc-dev/bcvk?rev=0954cb338a65a460d297cba93b42f7917e921df1#0954cb338a65a460d297cba93b42f7917e921df1"
+version = "0.20.0"
+source = "git+https://github.com/bootc-dev/bcvk?rev=a3e2327d9ce3448242cbb62cbdf20ef47a534752#a3e2327d9ce3448242cbb62cbdf20ef47a534752"
 dependencies = [
  "camino",
  "cap-std-ext",
@@ -3714,9 +3714,9 @@ checksum = "0b928f33d975fc6ad9f86c8f283853ad26bdd5b10b7f1542aa2fa15e2289105a"
 
 [[package]]
 name = "vsock"
-version = "0.5.4"
+version = "0.5.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6ba782755fc073877e567c2253c0be48e4aa9a254c232d36d3985dfae0bd5205"
+checksum = "9b7d4dba01e366e2ffbdf0700b1876f747c548db72dced534de41c54945c0148"
 dependencies = [
  "libc",
  "nix 0.31.2",
