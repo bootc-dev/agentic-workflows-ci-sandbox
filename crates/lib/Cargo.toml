@@ -61,13 +61,13 @@ xshell = { workspace = true, optional = true }
 
 # Crate-specific dependencies
 anstyle = "1.0.6"
-comfy-table = "7.1.1"
+comfy-table = "8.0.0"
 liboverdrop = "0.1.0"
 unicode-width = "0.2"
 libsystemd = "0.7"
 linkme = "0.3"
 nom = "8.0.0"
-ocidir = "0.8.0"
+ocidir = "0.9.0"
 schemars = { version = "1.0.4", features = ["chrono04"] }
 serde_ignored = "0.1.10"
 serde_yaml = "0.9.34"
